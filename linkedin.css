@@ -1,0 +1,187 @@
+.a1
+{
+	color:#464B95;
+	font-size:40px;
+	font-weight:bold;
+	padding-left:50px;
+	position:absolute;
+	text-decoration:none;
+	
+}
+.a2
+{
+	position:absolute;
+	left:1000px;
+	font-size:20px;
+	padding:7px;
+
+}
+.a3
+{
+	position:absolute;
+	left:1100px;
+	font-size:20px;
+	border:1px solid black;
+	border-collapse:collapse;
+	padding:7px;
+}
+span
+{
+	background-color:#464B95;
+	color:white;
+	text-decoration:none;
+}
+
+
+.h1,.h2,.h3,.refsine
+{
+	text-decoration:none;
+}
+.a2:hover
+{
+	background-color:#E9E1E1;
+}
+.a4
+{
+	background-color:#6267B3;
+}
+.a5
+{
+	background-color:#CECFD8;
+	line-height:20px;
+	padding:20px;
+	width:100px;
+}
+.a6
+{
+	font-size:15px;
+	text-align:center;
+}
+.a7
+{
+	text-align:center;
+	font-size:15px;
+	font-weight:bold;
+}
+.a8
+{
+	text-decoration:none;
+}
+.cap1
+{
+	color:white;
+	font-size:30px;
+	line-height:60px;
+}
+.cap2
+{
+	color:white;
+	font-size:30px;
+	line-height:60px;
+}
+.cap3
+{
+	color:white;
+	caption-side:bottom; 
+	font-size:15px;
+	line-height:40px;
+}
+.a10
+{
+	color:white;
+	padding: 15px;
+	background-color:blue;
+	text-align:center;
+	width:100%;
+}
+
+
+
+
+
+
+.sine1
+{
+	font-size:30px;
+	padding:20px;
+}
+.sine2
+{
+	font-size:40px;
+	padding:20px;
+}
+.sine3
+{
+	font-size:20px;
+	padding:20px;
+}
+.sine5,.sine6
+{
+	padding: 15px;	
+}
+.sine7
+{
+	color:white;
+	padding:15px;
+	width:400px;
+	background-color:blue;
+	text-align:center;
+	font-weight:bold;
+	text-decoration: none;
+	
+}	
+.sine4
+{
+	border-collapse:collapse;
+	padding:50px;
+}
+.sine8,.sine9
+{
+	line-height:40px;
+	text-decoration:none;
+	color:#4652F4;
+	font-weight:bold;
+}
+#s1
+{
+	padding:5px;
+}
+.div10
+{
+	color:white;
+	padding: 15px;
+	text-align:center;
+	text-decoration: none;
+}
+
+
+
+
+
+
+.f1
+{
+	color:#464B95;
+	font-size:40px;
+	font-weight:bold;
+	padding-left:50px;
+	position:absolute;
+	text-decoration:none;
+	
+}
+.f2
+{
+	position:absolute;
+	left:1000px;
+	font-size:20px;
+	padding:7px;
+
+}
+.f3
+{
+	position:absolute;
+	left:1100px;
+	font-size:20px;
+	border:1px solid black;
+	border-collapse:collapse;
+	padding:7px;
